@@ -1,0 +1,16 @@
+{
+  "refreshInterval": 5000,
+  "compactMode": false,
+  "showIpAddress": false,
+  "showPeerCount": true,
+  "hideDisconnected": false,
+  "hideMullvadExitNodes": true,
+  "terminalCommand": "ghostty",
+  "sshUsername": "",
+  "pingCount": 5,
+  "defaultPeerAction": "copy-ip",
+  "taildropEnabled": true,
+  "taildropDownloadDir": "~/tailscale-shared",
+  "taildropReceiveMode": "operator",
+  "loginServer": ""
+}
